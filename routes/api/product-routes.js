@@ -23,6 +23,7 @@ router.get('/:id', (req, res) => {
   // be sure to include its associated Category and Tag data
 });
 
+
 // create new product
   /* req.body should look like this...
     {
