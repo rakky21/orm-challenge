@@ -17,7 +17,6 @@ The application can be reached at:
 
 ## Snapshots
 ![Deleted notes](public/assets/deletenotes.jpg) 
-![Added notes](public/assets/addednotes.jpg) 
 
 ## Instructions GIVEN a functional Express.js API
 WHEN I add my database name, MySQL username, and MySQL password to an environment variable file
