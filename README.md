@@ -1,22 +1,13 @@
 # orm-challenge
 
 ## Description
-In this 
+In this app you will be able to create different api routes for different items, delete, update and create new items as well.
 
 The application can be reached at:
 
+git@github.com:rakky21/orm-challenge.git
 
-
-## Usage
-### 
-1. 
-2. 
-3. 
-4. 
-5. 
-
-## Snapshots
-![Deleted notes](public/assets/deletenotes.jpg) 
+https://rakky21.github.io/orm-challenge/
 
 ## Instructions GIVEN a functional Express.js API
 WHEN I add my database name, MySQL username, and MySQL password to an environment variable file
